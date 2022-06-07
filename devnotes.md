@@ -18,4 +18,4 @@
 - Change in budget during the process (initial->second)  
 ## Tues, June 7, 2022 ** after meeting notes **
 - Similar things:
- - F
+  - F
