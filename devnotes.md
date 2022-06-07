@@ -1,5 +1,5 @@
 # CBBA
-## Tues, June 7, 2022
+## Tues, June 7, 2022 ** nonspecific meeting notes **
 - MVD: Documented project template 
 -  EDA follows ROL
 -  Every year, new proposed budget -> new budget: Where is money allocated
