@@ -16,3 +16,6 @@
 -  Benchmarking similar research (Review of literature)
 - https://data.boston.gov/dataset/checkbook-explorer <- good/cool
 - Change in budget during the process (initial->second)  
+## Tues, June 7, 2022 ** after meeting notes **
+- Similar things:
+- - F
