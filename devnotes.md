@@ -19,3 +19,5 @@
 ## Tues, June 7, 2022 ** after meeting notes **
 - Similar things:
   - F
+  - F2
+  - F3
