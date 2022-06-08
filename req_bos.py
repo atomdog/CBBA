@@ -1,21 +1,35 @@
 #request wrapper for city of boston data
 import requests
 
-sources = {"CRIMEINCIDENTREPORTS": "313e56df-6d77-49d2-9c49-ee411f10cf58",
-            "SHOOTINGS": "313e56df-6d77-49d2-9c49-ee411f10cf58",
-            "SHOTSFIRED": "e16705ca-49ce-4803-84c1-c9848aa63024",
-            "FIELDINTERROGATION_2020": "64dd32d9-26f9-4275-9265-97fa3de7e22b",
-            "FIELDINTERROGATION_2019": "03f33240-47c1-46f2-87ae-bcdabec092ad",
-            "FIELDINTERROGATION_2016": "35f3fb8f-4a01-4242-9758-f664e7ead125",
-            "FIREARM_RECOVERY": "a3d2260f-8a41-4e95-9134-d14711b0f954",
-            "EARNINGS_2021": "ec5aaf93-1509-4641-9310-28e62e028457",
-            "EARNINGS_2020": "e2e2c23a-6fc7-4456-8751-5321d8aa869b",
-            "EARNINGS_2019": "3bdfe6dc-3a81-49ce-accc-22161e2f7e74",
-            "EARNINGS_2018": "31358fd1-849a-48e0-8285-e813f6efbdf1",
-            "CHECKBOOK_2022": "0a261d4e-3eec-4bac-bf72-b9a7aa77b033",
-            "CHECKBOOK_2021": "32897eeb-d9ca-494f-93b1-991c50bcd6a6"
+def getSourceDict():
+    sources = {"CRIMEINCIDENTREPORTS": "313e56df-6d77-49d2-9c49-ee411f10cf58",
+                "SHOOTINGS": "313e56df-6d77-49d2-9c49-ee411f10cf58",
+                "SHOTSFIRED": "e16705ca-49ce-4803-84c1-c9848aa63024",
+                "FIELDINTERROGATION_2020": "64dd32d9-26f9-4275-9265-97fa3de7e22b",
+                "FIELDINTERROGATION_2019": "03f33240-47c1-46f2-87ae-bcdabec092ad",
+                "FIELDINTERROGATION_2016": "35f3fb8f-4a01-4242-9758-f664e7ead125",
+                "FIREARM_RECOVERY": "a3d2260f-8a41-4e95-9134-d14711b0f954",
+                "EARNINGS_2021": "ec5aaf93-1509-4641-9310-28e62e028457",
+                "EARNINGS_2020": "e2e2c23a-6fc7-4456-8751-5321d8aa869b",
+                "EARNINGS_2019": "3bdfe6dc-3a81-49ce-accc-22161e2f7e74",
+                "EARNINGS_2018": "31358fd1-849a-48e0-8285-e813f6efbdf1",
+                "CHECKBOOK_2022": "0a261d4e-3eec-4bac-bf72-b9a7aa77b033",
+                "CHECKBOOK_2021": "32897eeb-d9ca-494f-93b1-991c50bcd6a6"
 
-            }
+                }
+    return(sources)
+
+def sourcetorid(sourcename):
+    rid = getSourceDict()[sourcename]
+    return(rid)
+
+def list_sources():
+    sourcelist=[]
+    q = getSourceDict()
+    for key in q:
+        sourcelist.append(key)
+    return(sourcelist)
+
 
 #request json -> list of fields w/ types and names
 def return_fields(returnedjson):
@@ -39,11 +53,14 @@ def n_skip(rid, r, n):
     r = requests.get("https://data.boston.gov/api/3/action/datastore_search?resource_id="+rid+"$top=",r,"&$skip=",n)
     return(r.json())
 
-
-rid = sources['EARNINGS_2021']
-n = 5
+#request result -> nice format to parse
+def eat_result(eson):
+    re = eson['result']['records']
+    return(re)
+#rid = sources['EARNINGS_2021']
+#n = 5
 #print(n_recent(rid, n))
-print(return_fields(n_recent(rid, n)))
+#print(return_fields(n_recent(rid, n)))
 
 
 
