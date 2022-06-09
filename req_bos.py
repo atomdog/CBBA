@@ -2,7 +2,11 @@
 import requests
 
 def getSourceDict():
-    sources = {"CRIMEINCIDENTREPORTS": "313e56df-6d77-49d2-9c49-ee411f10cf58",
+    sources = {"CRIMEINCIDENTREPORTS_2022": "313e56df-6d77-49d2-9c49-ee411f10cf58",
+                "CRIMEINCIDENTREPORTS_2021": "f4495ee9-c42c-4019-82c1-d067f07e45d2",
+                "CRIMEINCIDENTREPORTS_2020": "be047094-85fe-4104-a480-4fa3d03f9623",
+                "CRIMEINCIDENTREPORTS_2019": "34e0ae6b-8c94-4998-ae9e-1b51551fe9ba",
+                "CRIMEINCIDENTREPORTS_2018": "e86f8e38-a23c-4c1a-8455-c8f94210a8f1",
                 "SHOOTINGS": "313e56df-6d77-49d2-9c49-ee411f10cf58",
                 "SHOTSFIRED": "e16705ca-49ce-4803-84c1-c9848aa63024",
                 "FIELDINTERROGATION_2020": "64dd32d9-26f9-4275-9265-97fa3de7e22b",
