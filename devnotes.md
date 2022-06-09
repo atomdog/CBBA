@@ -1,6 +1,6 @@
 # CBBA
 ## Tues, June 7, 2022 ** nonspecific meeting notes **
-- MVD: Documented project template 
+- MVD: Documented project template
 -  EDA follows ROL
 -  Every year, new proposed budget -> new budget: Where is money allocated
 -  Where is money going in BPD, what is the allocation delta
@@ -21,4 +21,14 @@
   - (https://www1.nyc.gov/site/nypd/stats/reports-analysis/reports-landing.page)
   - F2
   - F3
-## https://policescorecard.org/sc/police-department/charleston
+## Thurs, June 9, 2022 ** nonspecific meeting notes **
+- 1 officer signs in all officers to the court, leaves
+- Dockets include dismissal of officer at time t
+- FIO database can be crossref'd to earnings database
+- Room for text analysis (not low hanging fruit)
+- Segmenting court overtime by arrest ?
+- f(Docket, FIO) = overtime pay
+- Questions: Does the number of FIO interactions correlate to overtime pay? Which variables and observable behaviors correlate to overtime pay? If any?
+- What are common themes in the FIO's of the top overtime recipients?
+## Thurs, June 9, 202 ** after meeting notes **
+- [Great visualization/explanation ](https://policescorecard.org/sc/police-department/charleston)
