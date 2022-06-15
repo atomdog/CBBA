@@ -32,3 +32,6 @@
 - What are common themes in the FIO's of the top overtime recipients?
 ## Thurs, June 9, 202 ** after meeting notes **
 - [Great visualization/explanation ](https://policescorecard.org/sc/police-department/charleston)
+
+## Wed, June 15, 202
+- https://www.wokewindows.org/data_sources :: is any data live? what data is available?
