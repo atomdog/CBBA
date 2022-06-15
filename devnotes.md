@@ -44,3 +44,4 @@
 - 6. questions 
 - 7. project description + critical areas
 - 8. Format via [Great visualization/explanation ](https://policescorecard.org/sc/police-department/charleston)
+- 9. Muckrock API
