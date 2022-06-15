@@ -35,5 +35,12 @@
 
 ## Wed, June 15, 202
 - https://www.wokewindows.org/data_sources :: is any data live? what data is available?
-- 1. visualizations, 2. notebook formatted code, 3. document api, 4. resources, 5. documentation for each step, 5. miro board 6. questions 7. project description + critical areas
-- 
+- 1. visualizations, (keep within stylebook)
+- 2. notebook formatted code, 
+- 3. document api, 
+- 4. resources, 
+- 5. documentation for each step, 
+- 6. miro board 
+- 6. questions 
+- 7. project description + critical areas
+- 8. Format via [Great visualization/explanation ](https://policescorecard.org/sc/police-department/charleston)
