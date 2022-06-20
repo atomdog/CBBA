@@ -33,7 +33,7 @@
 ## Thurs, June 9, 202 ** after meeting notes **
 - [Great visualization/explanation ](https://policescorecard.org/sc/police-department/charleston)
 
-## Wed, June 15, 202
+## Wed, June 15, 2022
 - https://www.wokewindows.org/data_sources :: is any data live? what data is available?
 - 1. visualizations, (keep within stylebook)
 - 2. notebook formatted code, 
@@ -45,3 +45,10 @@
 - 7. project description + critical areas
 - 8. Format via [Great visualization/explanation ](https://policescorecard.org/sc/police-department/charleston)
 - 9. Muckrock API
+
+## Monday, June 20, 2022
+- 1. vis more years, split by reg/overtime, annotate wrongful termination suit
+- 2. take a look at wokewindows for live data, catalogue available data
+- 3. Add questions
+- 4. Muckrock API?
+- 5. Project description + critical areas <-
