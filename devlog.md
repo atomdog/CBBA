@@ -12,3 +12,7 @@ I've completed a couple of scripts to explore the data; trying to get a better i
   - req_bos is a library to cleanly make requests to the [Analyze Boston](https://data.boston.gov/) site. It plugs directly into the dbConstruct and facilitates download of the data as well as the abstraction of the resources.
 - Created [eda](eda.py)
   - eda is the exploratory data analysis. Not much to be said as it has produced minimal results so far other than confirming that the rest of the code works.
+  
+### Notes
+ - wokewindows.org : mostly things we have access to, static
+ - could not find swat after action reports in city analytics
