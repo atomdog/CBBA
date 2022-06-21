@@ -52,3 +52,43 @@
 - 3. Add questions
 - 4. Muckrock API?
 - 5. Project description + critical areas <-
+
+** QUESTIONS **
+
+## Tuesday, June 21, 2022
+-  City Council: 
+  - Planning & Development
+    - Allston-Brighton Master Plan
+    - Landuse, zoning, parcel assessment
+    - Impact advisory groups (IAGs)
+  - Affordable housing
+  - Census and demography
+    - Housing unit counts (certificates of occupancy)
+    - Population projections (Development pipeline; transportation demand)
+  - City Governances
+- Lack of standardization
+  - Lack of mapping, lack of standard data collection through departments
+  - Legislation exists in state law, as city was not re-constituted in 60s/70s like most cities
+  - Wayne's datasets are manually created, not in analyzeboston, 
+  - No centralized pages to track appointments
+  - 200 boards and commissions, 400-500 unique seats, some sitting advisory group members are on 10-11 different comissions
+  - Institutions are obviously very interesting
+  - PILOT Institute property valuation, PILOT contributions not tracked well
+  - Nonprofits don't have to pay taxes, they own a lot of land, schools must pay fair share in lieu of taxes !!!!! 
+- Boston Planning and Development 
+  - They have a lot of tools, and other departments go to them
+  - Informative tool IF the mayor wanted the information
+  - No way to assess scale of undercount
+  - Whatever analysis of landuse and property ownership is possible
+  - Max ord. violation fee is 300, landlords simply pay this and do not fix conditions
+- Really about aggregating information; affordable housing, price points, etc.
+- Rank ordered priority:
+  - Huge number of rental properties; proposed penalties for problem landlords
+  - Housing inspection stored in paper (OCR?) ordinance provides tenets legal right to access previous inspection of buildings
+- Top priorities:
+  - Big need for development tracker, things are fragmented (are they consistently fragmented?, PDF search tool...)
+  - see the levels of affordability 
+  - [massbuilds](massbuilds.com) could be improved
+  - draft proposal, (distribution of x, y, z; bad actor landlords, where are the problems, etc, SCOFF law)
+
+
