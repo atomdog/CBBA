@@ -90,5 +90,12 @@
   - see the levels of affordability 
   - [massbuilds](massbuilds.com) could be improved
   - draft proposal, (distribution of x, y, z; bad actor landlords, where are the problems, etc, SCOFF law)
-
+## Thursday, June 23, 2022
+- Forecasted budget
+- number of officers not corr. to quantity of overtime
+- Show as a percentage of the overall budget
+- Categorize / benchmark styles of visualizations
+- Further due dilligence on on Census data
+- Dig into legal; settlements, forfeitures, etc. 
+- Style guide
 
