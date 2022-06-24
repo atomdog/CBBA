@@ -17,3 +17,7 @@ I've completed a couple of scripts to explore the data; trying to get a better i
  - wokewindows.org : mostly things we have access to, static
  - could not find swat after action reports in city analytics
 - 2021 wrongful termination payout (2 officers @ around 1.2 million each)
+
+## June 24
+### Action Items
+- Data shortlist: priority of datasets [ ]
