@@ -20,6 +20,6 @@ I've completed a couple of scripts to explore the data; trying to get a better i
 
 ## June 24
 ### Action Items
-- [] Data shortlist: priority of datasets 
-- [] Meet with Langdon about project data infrastructure
-- [] DD. on special events, 
+- [ ] Data shortlist: priority of datasets 
+- [ ] Meet with Langdon about project data infrastructure
+- [ ] DD. on special events, 
