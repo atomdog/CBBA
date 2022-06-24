@@ -24,3 +24,4 @@ I've completed a couple of scripts to explore the data; trying to get a better i
 - [ ] Meet with Langdon about project data infrastructure
 - [ ] DD. on special events, 
 - [ ] Greatly increase specificity of Jupyter notebook, comment extremely clearly
+- [ ] Other data ideas, cluster visualizations belonging to different questions.
