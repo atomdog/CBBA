@@ -20,4 +20,4 @@ I've completed a couple of scripts to explore the data; trying to get a better i
 
 ## June 24
 ### Action Items
-- Data shortlist: priority of datasets [ ]
+- Data shortlist: priority of datasets [x]
