@@ -25,5 +25,7 @@ I've completed a couple of scripts to explore the data; trying to get a better i
 - [ ] DD. on special events, 
 - [x] Greatly increase specificity of Jupyter notebook, comment extremely clearly
 - [ ] On miro board, list new dataset ideas, cluster visualizations belonging to different questions.
+  - https://www.census.gov/data/datasets/2019/econ/local/public-use-datasets.html
+  - 
   - [ ] once approved, can begin EDA
   
