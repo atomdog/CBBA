@@ -23,7 +23,7 @@ I've completed a couple of scripts to explore the data; trying to get a better i
 - [ ] Data shortlist: priority of datasets 
 - [ ] Meet with Langdon about project data infrastructure
 - [ ] DD. on special events, 
-- [ ] Greatly increase specificity of Jupyter notebook, comment extremely clearly
+- [x] Greatly increase specificity of Jupyter notebook, comment extremely clearly
 - [ ] On miro board, list new dataset ideas, cluster visualizations belonging to different questions.
   - [ ] once approved, can begin EDA
   
