@@ -98,4 +98,9 @@
 - Further due dilligence on on Census data
 - Dig into legal; settlements, forfeitures, etc. 
 - Style guide
+## Thursday, June 28, 2022
+- special events data?
+- trello issues 
+- circle back on vis, clarify, font increase
+- voterfile - extract texas 
 
