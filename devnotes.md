@@ -118,3 +118,10 @@
 
 
 ## Thursday, July 7, 2022
+- Top 10 OT Earners (year to year)
+- Histogram of special events OT change
+- Visualize shift in overtime over course of weekdays 
+
+### To-Do
+- [ ] salvage [old repo](https://github.com/BU-Spark/CS506Spring2021Repository) 
+
