@@ -103,4 +103,8 @@
 - trello issues 
 - circle back on vis, clarify, font increase
 - voterfile - extract texas 
+###
+###
+###
 
+## Thursday, July 7, 2022
