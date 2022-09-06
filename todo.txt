@@ -1,0 +1,15 @@
+#deliverable ACLU
+*PDF:
+-- Jupyter Notebook
+-0: Document data sources [x]
+-1: Document API [x]
+-2: Document cleaning methodology [x]
+-3: Document graphing methodology [x] (NO SCREENSHOT!)
+-4: Document analysis methodology [-]
+-- Data
+-0: Generate offline .csv [x]
+-1: Audit offline .csv [-]
+-2: File original 17-F [x]
+-3: File separate 17-F [] ((research project at Boston University), (items 4,5; roster&unit assignments), (items 1, (overtime))
+-- Merge into project description
+-0: as in title []
